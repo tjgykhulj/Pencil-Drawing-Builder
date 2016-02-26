@@ -13,6 +13,6 @@ Pass: qh88<br>
 <h3>Part3 : Combining "stoke" and "tone" :</h3><br>
 	![image](https://github.com/tjgykhulj/Pencil-Drawing-Builder/raw/master/Code/%E4%B8%AD%E9%97%B4%E6%AD%A5%E9%AA%A4%E5%AE%9E%E7%8E%B0/combine/result.png)
 <h2>Second Iteration : </h2>!<br>
-	[image](https://github.com/tjgykhulj/Pencil-Drawing-Builder/raw/master/Example/Win01.png)
+	![image](https://github.com/tjgykhulj/Pencil-Drawing-Builder/raw/master/Example/Win01.png)
 <h2>Third Iteration : </h2><br>
 	![image](https://github.com/tjgykhulj/Pencil-Drawing-Builder/raw/master/Example/App01.png)
