@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageSwitcher
+        android:id="@+id/sample_switcher"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:scaleType="matrix" />
+
+    <Gallery
+        android:id="@+id/galleryBuilding"
+        android:layout_width="fill_parent"
+        android:layout_height="100dip"
+        android:background="#55000000"
+        android:layout_alignParentLeft="true"
+        android:gravity="center_vertical"
+        android:spacing="8dip"
+        />
+
+    <Gallery
+        android:id="@+id/galleryOther"
+        android:layout_width="fill_parent"
+        android:layout_height="100dip"
+        android:background="#55000000"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_vertical"
+        android:spacing="8dip"
+        />
+</RelativeLayout>

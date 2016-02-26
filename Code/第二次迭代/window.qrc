@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>share.html</file>
+    </qresource>
+</RCC>
